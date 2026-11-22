@@ -26,7 +26,7 @@
 Python 3.8 이상이 필요합니다. 별도의 외부 라이브러리는 필요 없습니다.
 
 ```bash
-git clone <이 저장소 주소>
+git clone <https://github.com/jjyyrr8845-coder/gameproject>
 cd <저장소 폴더>
 python main.py        # Mac/Linux에서 python이 안 되면 python3 main.py
 ```
